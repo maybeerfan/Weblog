@@ -1,0 +1,43 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#gradient1)"/>
+  
+  <!-- Mountains -->
+  <path d="M0 300 L200 200 L400 250 L600 180 L800 220 L800 400 L0 400 Z" fill="#4A5568"/>
+  <path d="M0 320 L150 250 L300 280 L450 220 L600 240 L750 200 L800 210 L800 400 L0 400 Z" fill="#2D3748"/>
+  
+  <!-- Sun -->
+  <circle cx="650" cy="80" r="40" fill="#F6AD55"/>
+  <circle cx="650" cy="80" r="35" fill="#F6E05E"/>
+  
+  <!-- Trees -->
+  <circle cx="100" cy="350" r="25" fill="#38A169"/>
+  <circle cx="120" cy="330" r="20" fill="#38A169"/>
+  <circle cx="140" cy="350" r="25" fill="#38A169"/>
+  
+  <circle cx="700" cy="350" r="25" fill="#38A169"/>
+  <circle cx="720" cy="330" r="20" fill="#38A169"/>
+  <circle cx="740" cy="350" r="25" fill="#38A169"/>
+  
+  <!-- Clouds -->
+  <circle cx="200" cy="100" r="20" fill="white" opacity="0.8"/>
+  <circle cx="220" cy="100" r="25" fill="white" opacity="0.8"/>
+  <circle cx="240" cy="100" r="20" fill="white" opacity="0.8"/>
+  
+  <circle cx="500" cy="120" r="15" fill="white" opacity="0.8"/>
+  <circle cx="515" cy="120" r="20" fill="white" opacity="0.8"/>
+  <circle cx="530" cy="120" r="15" fill="white" opacity="0.8"/>
+  
+  <!-- Text -->
+  <text x="400" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Beautiful Landscape</text>
+  <text x="400" y="230" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16">Nature Photography</text>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg> 
