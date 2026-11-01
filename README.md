@@ -66,7 +66,3 @@ Place the project in your web server and open it through the browser.
 ## Support
 
 For questions and issues, please create an issue.
-
-## License
-
-This project is published under MIT license. 
